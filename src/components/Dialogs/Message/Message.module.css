@@ -1,0 +1,8 @@
+.messages {
+   grid-area: m;
+   padding: 10px;
+}
+
+.message .message {
+  color: white;
+}

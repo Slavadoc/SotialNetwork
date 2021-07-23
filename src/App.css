@@ -1,0 +1,15 @@
+.app-wrapper {
+  display: grid;  /* connect gride */
+  grid-template-rows: 50px 1fr 30px;
+  grid-template-columns: 1fr 10fr 1fr;
+  grid-template-areas:
+  "h h h"
+  "n p p"
+  "f f f";
+  margin-left: 0 auto;
+}
+
+.app-wrapper-content {
+  grid-area: p;
+  background-color: cornflowerblue;
+}
