@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 //import store from './redux/redux-store';
 
 let h1 = document.createElement("h1");
-h1.innerHTML = "Hello";
+h1.innerHTML = "";
 document.querySelector("body").appendChild(h1);
 
 //React.createElement("h1",)
