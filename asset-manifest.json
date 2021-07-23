@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SotialNetwork/static/css/main.38bc4a69.chunk.css",
-    "main.js": "/SotialNetwork/static/js/main.08a646bd.chunk.js",
-    "main.js.map": "/SotialNetwork/static/js/main.08a646bd.chunk.js.map",
+    "main.js": "/SotialNetwork/static/js/main.c44114b9.chunk.js",
+    "main.js.map": "/SotialNetwork/static/js/main.c44114b9.chunk.js.map",
     "runtime-main.js": "/SotialNetwork/static/js/runtime-main.8f9639cb.js",
     "runtime-main.js.map": "/SotialNetwork/static/js/runtime-main.8f9639cb.js.map",
     "static/js/2.6272999f.chunk.js": "/SotialNetwork/static/js/2.6272999f.chunk.js",
@@ -25,13 +25,13 @@
     "static/css/main.38bc4a69.chunk.css.map": "/SotialNetwork/static/css/main.38bc4a69.chunk.css.map",
     "static/js/2.6272999f.chunk.js.LICENSE.txt": "/SotialNetwork/static/js/2.6272999f.chunk.js.LICENSE.txt",
     "static/js/4.d95b8d0b.chunk.js.LICENSE.txt": "/SotialNetwork/static/js/4.d95b8d0b.chunk.js.LICENSE.txt",
-    "static/js/main.08a646bd.chunk.js.LICENSE.txt": "/SotialNetwork/static/js/main.08a646bd.chunk.js.LICENSE.txt",
+    "static/js/main.c44114b9.chunk.js.LICENSE.txt": "/SotialNetwork/static/js/main.c44114b9.chunk.js.LICENSE.txt",
     "static/media/loader.9ff919dc.svg": "/SotialNetwork/static/media/loader.9ff919dc.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.8f9639cb.js",
     "static/js/2.6272999f.chunk.js",
     "static/css/main.38bc4a69.chunk.css",
-    "static/js/main.08a646bd.chunk.js"
+    "static/js/main.c44114b9.chunk.js"
   ]
 }
