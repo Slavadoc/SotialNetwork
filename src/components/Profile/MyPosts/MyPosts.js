@@ -28,7 +28,7 @@ const  MyPosts = React.memo( props => {
     console.log(props);
 
      let posts = props.profilePage.posts
-     .map(post => <Post message={post.message} likesCount={post.likesCount} key={post.id}/>);
+     .map(post => <Post key={post.id} message={post.message} likesCount={post.likesCount} key={post.id}/>);
       //let newPost = React.createRef();
       let onPostChange = (values) => {
         this.props.onPostChange(values.newPost);
