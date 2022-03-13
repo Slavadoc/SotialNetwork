@@ -3,7 +3,8 @@ import { getUserDataThunkCreator} from './auth-reducer'
 const INITIALIZED_SUCCESS = 'INITIALIZED-SUCCESS';
 
 let initialState = {
-  initialized: null
+  initialized: null,
+  globalError: null
 }
 
 export const appReducer = (state = initialState, action) => {
